@@ -8,7 +8,7 @@ data = {
 
 df = pd.DataFrame(data)
 
-print("📊 Original Data:")
+print(" Original Data:")
 print(df)
 
  
